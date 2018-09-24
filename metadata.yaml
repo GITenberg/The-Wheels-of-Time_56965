@@ -1,0 +1,31 @@
+_repo: The-Wheels-of-Time_56965
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vosburgh, R. G.
+    gutenberg_agent_id: '31885'
+    url: http://www.gutenberg.org/2009/agents/31885
+creator:
+  author:
+    agent_name: Barclay, Florence L. (Florence Louisa)
+    aliases:
+    - Roy, Brandon
+    - Barclay, Florence Louisa (Charlesworth), Mrs.
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '1253'
+    url: http://www.gutenberg.org/2009/agents/1253
+    wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
+description: ''
+gutenberg_issued: '2018-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Wheels of Time
+url: http://www.gutenberg.org/ebooks/56965
